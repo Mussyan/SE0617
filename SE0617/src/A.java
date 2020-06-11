@@ -7,5 +7,6 @@ public class A {
 		classB.versionB();
 		classB.showHistory();
 		classC.versionC();
+		classC.showHistory();
 	}
 }
