@@ -5,6 +5,7 @@ public class A {
 		C classC = new C();
 		System.out.println("This is Class A that version 1!");
 		classB.versionB();
+		classB.showHistory();
 		classC.versionC();
 	}
 }
